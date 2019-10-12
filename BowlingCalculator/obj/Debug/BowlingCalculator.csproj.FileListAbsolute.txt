@@ -1,0 +1,6 @@
+c:\users\travis\documents\visual studio 2015\Projects\BowlingCalculator\BowlingCalculator\bin\Debug\BowlingCalculator.exe.config
+c:\users\travis\documents\visual studio 2015\Projects\BowlingCalculator\BowlingCalculator\bin\Debug\BowlingCalculator.exe
+c:\users\travis\documents\visual studio 2015\Projects\BowlingCalculator\BowlingCalculator\bin\Debug\BowlingCalculator.pdb
+c:\users\travis\documents\visual studio 2015\Projects\BowlingCalculator\BowlingCalculator\obj\Debug\BowlingCalculator.csprojResolveAssemblyReference.cache
+c:\users\travis\documents\visual studio 2015\Projects\BowlingCalculator\BowlingCalculator\obj\Debug\BowlingCalculator.exe
+c:\users\travis\documents\visual studio 2015\Projects\BowlingCalculator\BowlingCalculator\obj\Debug\BowlingCalculator.pdb
